@@ -44,3 +44,6 @@ This project involves building an **interactive Power BI dashboard** to analyze 
 ├─ Data/                   # Source CSV or Excel datasets
 ├─ Documentation/          # Any additional project docs
 └─ README.md               # Project overview and details
+
+<img width="884" height="501" alt="Blinkit Sales Analysis Dashboard" src="https://github.com/user-attachments/assets/ee8b6d61-d1dc-479a-869c-d77acfda0b2c" />
+
