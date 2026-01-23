@@ -1,4 +1,4 @@
-# Blinkit Quick Commerce Sales Analysis Power BI
+# Power BI Quick Commerce Sales Analysis Power BI
 
 ## 📊 Project Overview
 This project involves building an **interactive Power BI dashboard** to analyze **8,523 quick commerce sales records**. The dashboard provides deep insights into sales trends, outlet performance, product mix, and customer ratings to support **data-driven business decisions**.
